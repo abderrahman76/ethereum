@@ -7,7 +7,7 @@ body {
 
 .bg-container {
   height: 100vh;
-  background: url("/Users/abderrahmane/Desktop/elon musk/1654771903661.png") no-repeat left bottom ;
+  background: url("1654771903661.png") no-repeat left bottom ;
   background-size: 50%;
   display: flex;
   align-items: flex-end;
